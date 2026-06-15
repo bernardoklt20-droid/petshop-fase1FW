@@ -44,13 +44,11 @@ main {
 }
 
 .carousel {
-    max-width: 200px;
+    max-width: 500px;
     margin: auto;
-    border: 5px solid red;
 }
 
 .carousel img {
-    height: 100px;
+    height: 250px;
     object-fit: cover;
 }
-
