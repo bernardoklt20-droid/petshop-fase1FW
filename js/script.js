@@ -4,10 +4,15 @@ function agendar() {
 
 function atualizarRelogio() {
 
-    let agora = new Date();
+    let relogio = document.getElementById("relogio");
 
-    document.getElementById("relogio").innerHTML =
-        "Horário atual: " + agora.toLocaleTimeString();
+    if (relogio) {
+
+        let agora = new Date();
+
+        relogio.innerHTML =
+            "Horário atual: " + agora.toLocaleTimeString();
+    }
 }
 
 setInterval(atualizarRelogio, 1000);
