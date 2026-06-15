@@ -46,14 +46,6 @@ Este projeto foi desenvolvido para a disciplina de Fundamentos de Web. O objetiv
 * Bootstrap 5
 * JavaScript
 
-## Publicação
-
-GitHub:
-(Adicionar o link do repositório)
-
-GitHub Pages:
-(Adicionar o link do site publicado)
-
 ## Autor
 
 Bernardo Kalata
