@@ -48,7 +48,12 @@ main {
     margin: auto;
 }
 
+.carousel {
+    max-width: 400px;
+    margin: auto;
+}
+
 .carousel img {
-    height: 350px;
+    height: 200px;
     object-fit: cover;
 }
